@@ -115,3 +115,21 @@
       .pfp{max-width:260px}
       .nav .brand{display:none}
     }
+ </style>
+</head>
+<body>
+  <!-- Background orbs -->
+  <div class="orb one"></div>
+  <div class="orb two"></div>
+
+  <!-- Navbar -->
+  <div class="nav">
+    <div class="brand">Pannati • Portfolio</div>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#education">Education</a>
+    <a href="#contact">Contact</a>
+    <div class="right">
+      <a class="btn" href="mailto:pannatimourya@gmail.com"><i class="fa-solid fa-paper-plane"></i>Hire Me</a>
+    </div>
+  </div>
